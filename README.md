@@ -35,6 +35,7 @@ Cuidado: Não faça merge da feature do repositorio remoto no branch dev, finali
 
 ## GIT Flow Release
 - Define uma nova versão do software em produção
+- inicia-se em develop
 - Prefixo padrão RELEASE/*
 
 
